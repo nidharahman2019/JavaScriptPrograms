@@ -6,4 +6,4 @@ console.log("Subtraction",a-b);
 console.log("Multiplication",a*b);
 console.log("Division",a/b);
 console.log("Modulus",a%b);
-console.log("exponentition",2**3);
+console.log("exponentiation",2**3);

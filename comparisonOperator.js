@@ -13,3 +13,6 @@ let c=10;
 let d="10";
 console.log("checked",c==d);
 console.log("checked",c===d);
+
+// let e=a!=b;
+// console.log(e);
