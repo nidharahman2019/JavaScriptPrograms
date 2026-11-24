@@ -21,17 +21,17 @@ addition()*/
 
 // arrow function//
 
-// const addtion = ()=>{
-//     let a=5;b=10;
-//     console.log("sum",a+b);
-// }
-// addtion();
-
-function addition(a,b){        //parameter
-    let sum=a+b;
-    console.log("sum",sum);
+const addtion = ()=>{
+    let a=5;b=10;
+    console.log("sum",a+b);
 }
-addition(5,10);               //arguments
+addtion();
+
+// function addition(a,b){        //parameter
+//     let sum=a+b;
+//     console.log("sum",sum);
+// }
+// addition(5,10);               //arguments
 
 
 

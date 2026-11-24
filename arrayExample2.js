@@ -25,12 +25,12 @@
 // }
 // console.log(total);
 
-//for of loop and in this loop we will get the values from an array.
+// for of loop and in this loop we will get the values from an array.
 
-// let fruits=["kiwi","avocado","jackfruit"];
-// for(let fruit of fruits){
-//     console.log(fruit);
-// }
+let fruits=["kiwi","avocado","jackfruit"];
+for(let fruit of fruits){
+    console.log(fruit);
+}
 
 let numbers=[10,15,20,25,30];
 for (let even of numbers){
